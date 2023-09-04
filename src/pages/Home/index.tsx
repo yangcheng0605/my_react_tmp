@@ -10,7 +10,7 @@ export interface Props {
 export interface State {}
 
 const mapStateToProps = (state: any) => {
-    return {
+    return { 
     };
 };
 const mapDispatchToProps = (dispatch: any) => {
